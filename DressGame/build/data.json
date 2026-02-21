@@ -1,0 +1,152 @@
+{
+    "Hair" :[
+        {
+            "id": 1,
+            "name": "light hair",
+            "shortName": "light",
+            "src": "./img/hair1.png",
+            "description": "A light hair style"
+        },
+        {
+            "id": 2,
+            "name": "dark hair",
+            "shortName": "dark",
+            "src": "./img/hair2.png",
+            "description": "A dark hair style"
+        },
+        {
+            "id": 3,
+            "name": "red hair",
+            "shortName": "red",
+            "src": "./img/hair3.png",
+            "description": "A red hair style"
+        },
+        {
+            "id": 4,
+            "name": "pink hair",
+            "shortName": "pink",
+            "src": "./img/hair4.png",
+            "description": "A pink hair style"
+        },
+        {
+            "id": 5,
+            "name": "blond hair",
+            "shortName": "blond",
+            "src": "./img/hair5.png",
+            "description": "A blond hair style"
+        }
+    ],
+    "TopWear" : [
+        {
+            "id": 1,
+            "name": "school uniform",
+            "shortName": "uniform",
+            "src": "./img/top-wear1.png",
+            "description": "Classic school uniform top"
+        },
+        {
+            "id": 2,
+            "name": "brown shirt",
+            "shortName": "brown",
+            "src": "./img/top-wear2.png",
+            "description": "Casual brown shirt"
+        },
+        {
+            "id": 3,
+            "name": "pink wear",
+            "shortName": "pink",
+            "src": "./img/top-wear3.png",
+            "description": "Pink casual top"
+        },
+        {
+            "id": 4,
+            "name": "black wear",
+            "shortName": "black",
+            "src": "./img/top-wear4.png",
+            "description": "Black casual top"
+        }
+    ],
+    "BottomWear" : [
+        {
+            "id": 1,
+            "name": "pants",
+            "shortName": "pants",
+            "src": "./img/bottom-wear1.png",
+            "description": "Classic pants"
+        },
+        {
+            "id": 2,
+            "name": "pink short",
+            "shortName": "shorts",
+            "src": "./img/bottom-wear2.png",
+            "description": "Pink shorts"
+        },
+        {
+            "id": 3,
+            "name": "skirt",
+            "shortName": "skirt",
+            "src": "./img/bottom-wear3.png",
+            "description": "Classic skirt"
+        },
+        {
+            "id": 4,
+            "name": "black bottom",
+            "shortName": "black",
+            "src": "./img/bottom-wear4.png",
+            "description": "Black bottom wear"
+        }
+    ],
+    "Socks" : [
+        {
+            "id": 1,
+            "name": "black socks",
+            "shortName": "black",
+            "src": "./img/socks1.png",
+            "description": "Classic black socks"
+        },
+        {
+            "id": 2,
+            "name": "white socks",
+            "shortName": "white",
+            "src": "./img/socks2.png",
+            "description": "Classic white socks"
+        },
+        {
+            "id": 3,
+            "name": "black long socks",
+            "shortName": "long",
+            "src": "./img/socks3.png",
+            "description": "Long black socks"
+        }
+    ],
+    "FullWear" : [
+        {
+            "id": 1,
+            "name": "school uniform",
+            "shortName": "uniform",
+            "src": "./img/full-wear1.png",
+            "description": "Full school uniform outfit"
+        },
+        {
+            "id": 2,
+            "name": "maid uniform",
+            "shortName": "maid",
+            "src": "./img/full-wear2.png",
+            "description": "Maid uniform outfit"
+        },
+        {
+            "id": 3,
+            "name": "hoodie",
+            "shortName": "hoodie",
+            "src": "./img/full-wear3.png",
+            "description": "Comfortable hoodie outfit"
+        },
+        {
+            "id": 4,
+            "name": "fancy dress",
+            "shortName": "fancy",
+            "src": "./img/full-wear4.png",
+            "description": "Elegant fancy dress outfit"
+        }
+    ]
+}
